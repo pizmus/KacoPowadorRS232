@@ -1,3 +1,5 @@
 KacoPowadorRS232 last changes:
 2019-08-24
+ - dos2unix to fix commandref
+2019-08-24
  - initial version
